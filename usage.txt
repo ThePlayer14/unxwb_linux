@@ -1,0 +1,6 @@
+Usage:
+    ./unxwb -b music.xsb music.xwb
+
+NOTE: If you are using the pre-built binaries rather than compiling from
+    source, you will not have "unxwb" and must substitute "unxwb.x86" or
+    "unxwb.x86_64" as appropriate.
